@@ -1,0 +1,2 @@
+
+int get_message();
